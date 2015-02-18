@@ -1,0 +1,4 @@
+- Upload the obj.json file
+- got /show to view contents of obj.json
+- goto /update to add to obj.json
+- goto /delete to delete from obj.json
